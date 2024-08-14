@@ -12,7 +12,7 @@ const Slide = ({ title, image, description, isActive }) => {
       <div className='projectImage'> <img src={image} alt={title} className="slide-image" /> </div>
 
       <div className="slide-content">
-        <h2><a href=''>{title}</a></h2>
+        <h2><a>{title}</a></h2>
         <p>{description}</p>
       </div>
 

@@ -1,5 +1,5 @@
 import './About.css'
-import '/home/studen/Desktop/My_portfolio/racheal-portfolio/src/App.css'
+import './App.css';
 
 const About = ()=>{
 return(
