@@ -1,12 +1,12 @@
 import './About.css'
-import './App.css';
+
 
 const About = ()=>{
 return(
     <div className='about' id='aboutpage'>
         <div className='aboutContainer'>
             <div className='imageContainer'>
-                <img src='/Rachea.jpg' id='myImage'/>
+                <img src='/Rachea.jpg' id='myImage' alt='Racheal'/>
             </div>
 
             <div className='aboutContent'>
