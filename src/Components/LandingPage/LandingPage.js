@@ -17,7 +17,7 @@ const LandingPage =()=>{
         </div>
 
         <div>
-            <img src='/Rachea.png' id='myImageTop'/>
+            <img src='/Rachea.png' id='myImageTop' alt='Racheal'/>
         </div>
         </div>
     )

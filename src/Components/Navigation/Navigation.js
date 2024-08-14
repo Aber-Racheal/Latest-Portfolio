@@ -7,7 +7,7 @@ return(
     <div className='navLinks'>
 
         <div>
-        <img src='./RachealLogo.png' id='myLogo'/>
+        <img src='./RachealLogo.png' id='myLogo' alt='Racheal'/>
         </div>
    <div className='whole-navigation'>
    <a href='#homepage' id='home'>Home</a>
