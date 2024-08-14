@@ -1,5 +1,4 @@
-import './Services.css'
-import '/home/studen/Desktop/My_portfolio/racheal-portfolio/src/App.css'
+import './Services.css';
 
 const Services = ()=>{
 return(

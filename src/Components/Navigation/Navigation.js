@@ -1,5 +1,4 @@
-import './Navigation.css'
-import '/home/studen/Desktop/My_portfolio/racheal-portfolio/src/App.css'
+import './Navigation.css';
 const Navigation =()=>{
 return(
     <div className='body'>
