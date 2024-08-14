@@ -24,7 +24,7 @@ const Footer = () => {
             <a href="https://github.com/yourprofile" target="_blank" rel="noopener noreferrer">
               <i className="fa fa-github"></i>
             </a>
-            {/* Add more social icons as needed */}
+         
           </div>
         </div>
       </div>

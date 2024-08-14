@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Slide from './Slide';
-import './Slide.css'; // Import CSS for Slideshow component
+import './Slide.css'; 
 
 const Slideshow = () => {
   const slides = [
